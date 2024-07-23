@@ -1,2 +1,2 @@
 # A-Weather-traking-API-based-web-app
-Simple Weather traking-API based web app built using HTML, CSS, Javascript and API fetched from openweathermap.org which return weather information of any city by searching city name.
+Weather traking-website built using HTML, CSS, Javascript. Used fetch API to get the real-time weather response from openweathermap.org, it returns the weather information of city entered by the user.
